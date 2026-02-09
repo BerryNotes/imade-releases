@@ -1,0 +1,1 @@
+# iMade Releases\n\nDownload the latest version of iMade from the [Releases](https://github.com/BerryNotes/imade-releases/releases) page.\n\niMade is a music ranking tool for producers. Learn more at the [website](https://imade-site.vercel.app).
